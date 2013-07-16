@@ -9,11 +9,16 @@
             "homepage": "https://developers.google.com/closure/compiler/"
         },
         {
-            "name": "Krusty Kode",
+            "name": "Package Maintainer",
             "email": "kaiwa@20minutemail.com",
             "role": "maintainer"
         }
     ],
+    "support": {
+        "issues": "http://code.google.com/p/closure-compiler/issues",
+        "wiki": "http://code.google.com/p/closure-compiler/w/list",
+        "source": "http://code.google.com/p/closure-compiler/source/browse"
+    },
     "require": {
 
     },
